@@ -6,7 +6,7 @@ A Chat Server/Client with built-in RSA encryption written in Python
 How To Run
 ----------
 
-Use the provided Makefile
+Run the makefile given
 
 Description
 ------------
@@ -19,8 +19,8 @@ miniRSA.py contains all the methods necessary to implement RSA encryption and cr
 
 keycracker.py is the Key Cracker program. This program has a menu from which the user can either run an example cracking sequence or enter their own data for cracking purposes. The program takes in the Public Key of the target and then cracks the Private Key. After that, the user can enter the received encrypted message (a list of comma-separated integers) and the Key Cracker will decrypt it.
 
-Collaborators
--------------
 
-Built in collaboration with [Ayush Sobti](http://github.com/xbonez)
+
+
+
 
