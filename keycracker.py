@@ -1,10 +1,3 @@
-#!/usr/bin/python
-#
-# keycracker.py - Key Cracker testing
-#
-# Mayank Gureja (ECE-C 353), Ayush Sobti (CS 283)
-#
-# Sun Aug 19 19:57:35 EDT 2012
 
 
 import sys
