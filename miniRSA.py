@@ -1,10 +1,3 @@
-#!/usr/bin/python
-#
-# miniRSA.py - miniRSA Library, including encrypt, decrypt and key cracking tests
-#
-# Mayank Gureja (ECE-C 353), Ayush Sobti (CS 283)
-#
-# Sun Aug 12 21:01:35 EDT 2012
 
 
 import sys
@@ -177,12 +170,12 @@ def keygen() :
 	if a == b :
 		keygen()
 	
-#	print "a is %0d" % a
-#	print "b is %0d" % b
+
 
 
 	c = a*b
-#	print "c is %0d" % c
+
+	
 
 	m = (a-1)*(b-1)
 #	print "m is %0d" % m
